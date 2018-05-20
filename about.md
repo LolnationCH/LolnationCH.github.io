@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a student in computer science at university (almost done).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I love pretty much any subject in computer related, apart maybe the too much calculus ones (like graphics).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The subjects I prefer are :
+- Security
+- AI
+- Application programming
+- Reverse engineering
 
-
-[jekyll-organization]: https://github.com/jekyll
+I can program in :
+- Python
+- C/C++
+- C#/WPF
+- JS/React/Html
+- Assembly (Sparc 9 and NES, little bit 8086)
+- COBOL, EasyTrieve
+- Powershell, Bash/Zsh/sh
+- Java (unfortunaly)
