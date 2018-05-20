@@ -22,4 +22,4 @@ I can program in :
 - Assembly (Sparc 9 and NES, little bit 8086)
 - COBOL, EasyTrieve
 - Powershell, Bash/Zsh/sh
-- Java (unfortunaly)
+- Java (unfortunately)

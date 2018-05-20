@@ -249,7 +249,7 @@
 		&.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: rgba(245, 240, 240, 0);
 
 			img {
 				width: 48px;
@@ -434,18 +434,18 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #6f5050;
 		border: 0;
 		cursor: pointer;
 		@include vendor('background-image', ('linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15))', 'url("images/overlay.png")'));
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
 
 		&:hover {
-			background-color: #9ececc;
+			background-color: #733d3d;
 		}
 
 		&:active {
-			background-color: #7eaeac;
+			background-color: #754c4c;
 		}
 	}
 
@@ -552,6 +552,7 @@
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
+			left: 10px;
 		}
 
 		p {
@@ -738,19 +739,19 @@
 		/* Header */
 
 			#header {
-				width: 300px;
+				width: 315px;
 			}
 
 		/* Footer */
 
 			#footer {
-				margin-left: 300px;
+				margin-left: 315px;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 300px;
+				margin-left: 315px;
 			}
 
 	}
